@@ -41,7 +41,7 @@ const API_KEY = "YOUR_GEMINI_API_KEY";
 
 🎯 Usage
 
-Open the CogniX AI chatbot in a browser.
+Open the TALK TO MAHI chatbot in a browser.
 
 Type a message in the input box and hit "Send".
 
@@ -63,4 +63,4 @@ This project was developed by myself, worked collaboratively on the design, deve
 
 📜 License
 
-CogniX AI is jointly licensed under the MIT License by both contributors. All rights are shared equally
+TALK TO MAHI is jointly licensed under the MIT License by both contributors. All rights are shared equally
